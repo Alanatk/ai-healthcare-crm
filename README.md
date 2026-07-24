@@ -1,4 +1,4 @@
-# AIVOA.AI - AI-First Healthcare CRM (HCP Module)
+# AI-First Healthcare CRM (HCP Module)
 
 A production-quality CRM portal designed for medical sales representatives. The application simplifies logging and reviewing interactions with healthcare professionals (HCPs) by combining a modern structured form with a conversational AI Copilot powered by LangGraph, LangChain, and Groq API. 
 
